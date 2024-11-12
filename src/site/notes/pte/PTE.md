@@ -98,8 +98,7 @@ In conclusion, this picture is very useful
 
 ➡️ 练习策略：刷猩际的月预测即可，主要任务是把模版的熟练度和复述时的流利度提上去！
 
-###   
-4、Retell Lecture（RL）
+###   4、Retell Lecture（RL）
 
 ➡️ 核心策略：模版+填充录音听到的句子/句子片段/词组+流利度。
 
